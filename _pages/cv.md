@@ -25,7 +25,10 @@ Research experience
   * Jan 2021 - Present
   * Purdue University
   <!-- * Duties included: Merging pull requests -->
-  * Supervisor: Professor Yung-Hsiang Lu, Professor Qiang Qiu, Professor Wei Zakharov
+  * Supervisor: 
+    * Professor Yung-Hsiang Lu
+    * Professor Qiang Qiu
+    * Professor Wei Zakharov
 
 * Undergraduate Research Assistant
   * Sep 2020 - Dec 2020
